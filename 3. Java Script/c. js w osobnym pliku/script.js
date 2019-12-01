@@ -1,0 +1,1 @@
+console.log('Jakiś tekst 2222');
